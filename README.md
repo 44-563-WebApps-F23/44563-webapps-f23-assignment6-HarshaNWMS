@@ -3,7 +3,7 @@
 Introduction to Java Script and DOM
 -------------
 #Hosted at
-[Author page]( https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment6-HarshaNWMS/author.html)
-[Tips on conversion ](https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment6-HarshaNWMS/tips.html)
-[Goes on cruise](https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment6-HarshaNWMS/cruise.html)
+[Author page]( https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment6-HarshaNWMS/author.html)<br>
+[Tips on conversion ](https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment6-HarshaNWMS/tips.html)<br>
+[Goes on cruise](https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment6-HarshaNWMS/cruise.html)<br>
 
